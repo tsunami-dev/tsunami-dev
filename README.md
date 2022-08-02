@@ -3,7 +3,7 @@
 - another part of the reason why i decided to get into tech was my love for understanding how things work when it comes to electronics is i would personally say i've alaways dreamed of geting into tech but didnt know how to start. my experience with coding and development is still fairly new as i've only completed two major projects and am currently working on my third as we speak. beyond that i also want to use this drive to be in tech to help support my family.
 - 🌱 I’m currently learning Big Data_Haddop, Apache Spark, Hive, Scala, mySQL/SparkSQL 
 - 💞️ I’m looking to collaborate on all forms of data entry as well as building towards fullstack
-- 📫 How to reach me : Email tyller640@revature.net
+- 📫 How to reach me : Email tyller640@revature.net / Tsunamidev0913@gmail.com
 
 <!---
 tsunami-dev/tsunami-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
