@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @tsunami-dev
-- 👀 I’m interested in Becoming a developer that helps advance the way use Technology in todays mondern age because as a kid I've always thought about how there is so many ways that a thought can turn into an actual applications that help not only help people but as i said advance the way we use our technology.
-- another part of the reason why i decided to get into tech was my love for understanding how things work when it comes to electronics is i would personally say i've alaways dreamed of geting into tech but didnt know how to start. my experience with coding and development is still fairly new as i've only completed two major projects and am currently working on my third as we speak. beyond that i also want to use this drive to be in tech to help support my family.
-- 🌱 I’m currently learning Big Data_Haddop, Apache Spark, Hive, Scala, mySQL/SparkSQL 
+- 👀 Hello there welcome to my github i am an self taught devloper with a year of basic entry level experience in the field of development i am very motivated in building out and maintaining programs with the the knowledge that i have know and what i don't know i will learn with the a level of urgency and passion needed to get the job done well. as i go forward into my journey my hope is to work on many major projects that help advance modern society as we are going on a path where Technology is the future and will continue to grow for many years to come, i am available for work and am actively looking so please refer to the reach me section in my bio for any work opportunities 
+- 🌱 I have experience in Big Data_Haddop, Apache Spark, Hive, Scala, mySQL/SparkSQL, as well as frontend languages such as HTML, CSS, JavaScript, React.js, and BootStrap 
 - 💞️ I’m looking to collaborate on all forms of data entry as well as building towards fullstack
-- 📫 How to reach me : Email tyller640@revature.net / Tsunamidev0913@gmail.com
+- 📫 How to reach me : Email... Tsunamidev0913@gmail.com
 
 <!---
 tsunami-dev/tsunami-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
