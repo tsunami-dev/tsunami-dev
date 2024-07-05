@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I’m @tsunami-dev</h1>
-<h3 align="center">👀 Hello there welcome to my GitHub I am a self-taught developer with a year of entry-level experience in the field of full-stack development as well as data analysis I am very motivated in building out and maintaining programs with the knowledge that I have now and what i don't know i will learn with the a level of urgency and passion needed to get the job done well. as i go forward into my journey my hope is to work on many significant projects that help advance modern society as we are going on a path where Technology is the future and will continue to grow for many years to come, i am available for work and am actively looking so please refer to the reach me section in my bio for any work opportunities </h3>
+<h3 align="center">👀 Hello there welcome to my GitHub I am a self-taught developer with a year of entry-level experience in the field of full-stack development I am very motivated in building out and maintaining programs with the knowledge that I have now and what i don't know i will learn with the a level of urgency and passion needed to get the job done well. as i go forward into my journey my hope is to work on many significant projects that help advance modern society as we all know Technology is the future and will continue to grow for many years to come, i am available for work and am actively looking so please refer to the reach me section in my bio for any work opportunities </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsunami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tsunami-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsunami-dev" alt="tsunami-dev" /></a> </p>
 
-- ⭐️ I’m currently learning the pern stack
+- ⭐️ I’m skilled with the pern stack(PostgresSQL, Express, React, Node.JS) as well as some stand others such as Python, Scala, Mongodb, Ubuntu and a few more
 
-- 😎 find all my work in the repos as well as i have local project i try to upload every week
+- 😎 find all my work in the repos as well as i have local projects i try to upload as i work on them
 
 - 📫 How to reach me **tyllermendoza@pursuit.org**
 
