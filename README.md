@@ -20,7 +20,6 @@
 <a href="https://www.linkedin.com/in/tyller-mendoza-61107120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyller-mendoza" height="30" width="40" /></a>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d2abb7f2-6271-471b-9413-075d667a8c4c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
